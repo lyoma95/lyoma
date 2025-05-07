@@ -1,4 +1,4 @@
-let userText = ('Введите текст')
+let userText = ('Введитпкмпкмпкмкмкffffме текст')
 let  wordFromText = ('Введите слово из текста')
 let indexOfWord = (userText.trim().indexOf(wordFromText))
 
