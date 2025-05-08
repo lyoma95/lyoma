@@ -1,5 +1,5 @@
-
-
+jgj
+jgj
 
 userText = prompt('Введитпкмпкмпкмкмкffffме текст')
 wordFromText = prompt('Введите слово из текста')
