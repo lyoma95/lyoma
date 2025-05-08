@@ -1,7 +1,11 @@
-let userText = ('Введитпкмпкмпкмкмкffffме текст')
-let  wordFromText = ('Введите слово из текста')
+
+
+
+userText = prompt('Введитпкмпкмпкмкмкffffме текст')
+wordFromText = prompt('Введите слово из текста')
 let indexOfWord = (userText.trim().indexOf(wordFromText))
 
-prompt(userText)
-prompt (wordFromText)
 alert (indexOfWord)
+
+console.log(userText)
+console.log(wordFromText)
