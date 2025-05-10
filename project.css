@@ -1,10 +1,70 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    background: #000;
+}
 .main {
     width:  1400px;
     height:  4512px;
    background: #32495e;
    margin:auto;
+   
 }
- .head{
-   background-image: url();
+header {
+   background-image: url(/bgHeader.jpg);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   width: 1400px;
+   height: 400px;
+   color: aliceblue;
 }
+.Head {
+    background-color:#E95258B2 ;
+    opacity: 1;
+    width: 1400px;
+   height: 400px;
+   
+}
+.HeadOne {
+    display: flex;
     
+    height: 45px;
+    padding: 20px 0 0 115px;
+ 
+}
+.HeadTulpar {
+    width: 206px;
+    height: 45px;
+    
+}
+.HeadText {
+    width: 964px;
+    display: flex;
+    padding: 20px 0 0 266px;
+    
+    justify-content: space-between;
+    text-align: center;
+}
+.HeadTwo  { 
+
+    width: 672px;
+    height: 104px;
+    margin: 120px 0 0 115px;
+    font-size: 44px;
+    font-weight: 800;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.HeadThre {
+    width: 672px;
+    height: 34px;
+    margin: 30px 0 0 115px;
+    
+    
+    font-size: 14px;
+    
+}
+
+
